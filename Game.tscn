@@ -1,0 +1,35 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://maps/map_0000.tscn" type="PackedScene" id=1]
+[ext_resource path="res://icon.png" type="Texture" id=2]
+[ext_resource path="res://Camera.cs" type="Script" id=3]
+
+[node name="Game" type="Node2D"]
+
+[node name="Variables" type="Node" parent="."]
+
+[node name="Buffs" type="Node" parent="Variables"]
+
+[node name="Worldmap" type="Node" parent="."]
+
+[node name="Variables" type="Node" parent="Worldmap"]
+
+[node name="Location" type="Node" parent="Worldmap"]
+
+[node name="OtherPlayers" type="Node" parent="Worldmap"]
+
+[node name="map_0000" parent="Worldmap/OtherPlayers" instance=ExtResource( 1 )]
+
+[node name="Party" type="Node" parent="."]
+
+[node name="MainPlayer" type="Node" parent="."]
+
+[node name="Sprite" type="Sprite" parent="MainPlayer"]
+position = Vector2( 143.469, 220.866 )
+texture = ExtResource( 2 )
+
+[node name="Cameras" type="Node" parent="."]
+
+[node name="Camera" type="Camera" parent="Cameras"]
+current = true
+script = ExtResource( 3 )

@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JX Revolution", "JX Revolution.csproj", "{6A1D8E57-76C5-4512-9A76-E530A84A93AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1D8E57-76C5-4512-9A76-E530A84A93AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1D8E57-76C5-4512-9A76-E530A84A93AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1D8E57-76C5-4512-9A76-E530A84A93AE}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{6A1D8E57-76C5-4512-9A76-E530A84A93AE}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{6A1D8E57-76C5-4512-9A76-E530A84A93AE}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{6A1D8E57-76C5-4512-9A76-E530A84A93AE}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal

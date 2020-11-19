@@ -1,0 +1,16 @@
+D:\Godot Projects\.mono\temp\bin\Debug\JX Revolution.dll
+D:\Godot Projects\.mono\temp\bin\Debug\JX Revolution.pdb
+D:\Godot Projects\.mono\temp\obj\Debug\JX Revolution.csprojAssemblyReference.cache
+D:\Godot Projects\.mono\temp\obj\Debug\JX Revolution.AssemblyInfoInputs.cache
+D:\Godot Projects\.mono\temp\obj\Debug\JX Revolution.AssemblyInfo.cs
+D:\Godot Projects\.mono\temp\obj\Debug\JX Revolution.csproj.CoreCompileInputs.cache
+D:\Godot Projects\.mono\temp\obj\Debug\JX Revolution.dll
+D:\Godot Projects\.mono\temp\obj\Debug\JX Revolution.pdb
+D:\Godot Projects\JX Revolution\.mono\temp\bin\Debug\JX Revolution.dll
+D:\Godot Projects\JX Revolution\.mono\temp\bin\Debug\JX Revolution.pdb
+D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.csprojAssemblyReference.cache
+D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.AssemblyInfoInputs.cache
+D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.AssemblyInfo.cs
+D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.csproj.CoreCompileInputs.cache
+D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.dll
+D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.pdb
