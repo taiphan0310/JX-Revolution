@@ -14,3 +14,11 @@ D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.AssemblyInfo.
 D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.csproj.CoreCompileInputs.cache
 D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.dll
 D:\Godot Projects\JX Revolution\.mono\temp\obj\Debug\JX Revolution.pdb
+C:\Users\Huu Tai\Desktop\JX-Revolution\.mono\temp\bin\Debug\JX Revolution.dll
+C:\Users\Huu Tai\Desktop\JX-Revolution\.mono\temp\bin\Debug\JX Revolution.pdb
+C:\Users\Huu Tai\Desktop\JX-Revolution\.mono\temp\obj\Debug\JX Revolution.csprojAssemblyReference.cache
+C:\Users\Huu Tai\Desktop\JX-Revolution\.mono\temp\obj\Debug\JX Revolution.csproj.CoreCompileInputs.cache
+C:\Users\Huu Tai\Desktop\JX-Revolution\.mono\temp\obj\Debug\JX Revolution.AssemblyInfoInputs.cache
+C:\Users\Huu Tai\Desktop\JX-Revolution\.mono\temp\obj\Debug\JX Revolution.AssemblyInfo.cs
+C:\Users\Huu Tai\Desktop\JX-Revolution\.mono\temp\obj\Debug\JX Revolution.dll
+C:\Users\Huu Tai\Desktop\JX-Revolution\.mono\temp\obj\Debug\JX Revolution.pdb
